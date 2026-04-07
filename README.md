@@ -34,7 +34,8 @@ Aucun effet.
 
 Case Piège
 -Placée uniquement par Serpant. Ne peut les placers que sur des cases simple.
--Inflige 1 point de dégât au joueur lorsqu’il atterrit dessus.
+-Lance un mode de jeu ou le joueur incarne son personnage a la premier personne, il doit effectuer un parcour pour gagner le mini jeu : S'il tombe il perd un HP, si il gagne il n'en perd pas.
+-En revenant du mini jeu tout les pièges son suprimer.
 
 Case Nourriture
 -Rend 1 point de vie au joueur lorsqu’il marche dessus.
