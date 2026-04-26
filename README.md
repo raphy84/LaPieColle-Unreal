@@ -24,7 +24,6 @@ Serpant se déplace librement entre les cases.
 Serpant place un piège sur la case où il s’arrête.
 Les effets de la case du joueur sont appliqués.
 Le tour se termine.
-Tous les 5 tours, de nouvelles cases sont générées aléatoirement.
 
 
 Types de Cases
@@ -34,7 +33,9 @@ Aucun effet.
 
 Case Piège
 -Placée uniquement par Serpant. Ne peut les placers que sur des cases simple.
--Lance un mode de jeu ou le joueur incarne son personnage a la premier personne, il doit effectuer un parcour pour gagner le mini jeu : S'il tombe il perd un HP, si il gagne il n'en perd pas.
+-Lance aléatoirement un des deux mini jeux :
+--le joueur incarne son personnage a la premier personne, il doit effectuer un parcour pour gagner le mini jeu : S'il tombe il perd un HP, si il gagne il n'en perd pas.
+--le joueur incarne son personnage à la première personne, il doit trouver son chemin dans un labyrinthe avec le chasseur avec lui qui le cherche, quand il le voit il le poursuit et s'il le touche le joueur perd le mini-jeu.
 -En revenant du mini jeu tout les pièges son suprimer.
 
 Case Nourriture
